@@ -1,3 +1,11 @@
+# Hacker News Exercise.
+
+Exercise for the Pure React book.
+
+![](https://user-images.githubusercontent.com/5881557/159954015-71b50810-3bac-4141-9f99-42eda971f384.png)
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
